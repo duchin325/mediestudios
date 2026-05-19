@@ -9,7 +9,6 @@ import Badge from "@/components/ui/Badge";
 import DataTable from "@/components/ui/DataTable";
 import Modal from "@/components/ui/Modal";
 import PageHeader from "@/components/ui/PageHeader";
-import StatCard from "@/components/ui/StatCard";
 
 // ─── Label maps ───────────────────────────────────────────────────────────────
 

@@ -46,7 +46,7 @@ const columns = [
   {
     key: "acciones",
     header: "Acciones",
-    render: (_p: Paciente) => (
+    render: () => (
       <button
         className="inline-flex text-gray-400 hover:text-blue-600"
         aria-label="Ver detalle"

@@ -3,7 +3,7 @@
 import { useState } from "react";
 import { ExternalLink } from "lucide-react";
 import { mockEstudios } from "@/lib/mock-data";
-import { EstadoEstudio, Prioridad, TipoEstudio } from "@/types";
+import { EstadoEstudio, TipoEstudio } from "@/types";
 import type { Estudio } from "@/types";
 import Badge from "@/components/ui/Badge";
 import DataTable from "@/components/ui/DataTable";
